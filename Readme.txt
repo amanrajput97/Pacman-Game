@@ -1,0 +1,1 @@
+Please Install Pygame library beforehand
